@@ -1,0 +1,2 @@
+npm install --save-dev framer-motion swiper react-icons
+
